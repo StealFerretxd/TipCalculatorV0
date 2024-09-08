@@ -86,12 +86,12 @@
         android:layout_alignBottom="@id/label_total"
         android:layout_alignRight="@id/amount_bill" />
 
-    <Button
+    <!--<Button
         style="@style/ButtonStyle"
         android:layout_marginTop="20dp"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/amount_total"
         android:text="@string/button_calculate"
-        android:onClick="calculate" />
+        android:onClick="calculate" />-->
 
 </RelativeLayout>
